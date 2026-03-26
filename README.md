@@ -96,8 +96,4 @@ style_weight = 1e-2    # Artistic effect
  Works with any image URL
  Clean modular code
 
----
 
-
-
-⭐ If you like this project, give it a star!
